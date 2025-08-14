@@ -40,7 +40,7 @@
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-config-google": "^0.14.0",
-    "tree-sitter-cli": "^0.22.2",
+    "tree-sitter-cli": "^0.25.8",
     "prebuildify": "^6.0.0"
   },
   "scripts": {
